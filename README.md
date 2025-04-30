@@ -1,2 +1,2 @@
 # PrathamAI_VoiceAssistant
-A smart AI voice assistant
+PrathamAI VoiceAssistant is a smart voice assistant with can interact with the user using  speech recognition and ai. It can perform various tasks like greeting user, searching the web, playing youtube videos, solving complex math queries, giving weather reports, searches detail about any movie from the imdb database, It tells about latest news headline. It has email automation feature as well. You can also make it use for searching in wikipedia.
